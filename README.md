@@ -5,6 +5,8 @@ GoInChI is an ultra light-weight HTTP GET client that facilitates various format
 
 Format conversion might be erraneous when novice programmers start using the chemoinformatics APIs. Although existing tool kits provide such methods, InChIKey needs delicate handling and, I believe, there are no methods in open source tool kits to convert it back into reusable formats likes SMILES/InChI/MOL. This is important since InChIkeys, apparently, are useful as identifiers to index chemical compound libraries/databases.
 
+GoInChI is a quick solution to overcome this issue.
+
 ###### How to use:
 
     git clone https://github.com/vishalkpp/GoInChI.git
