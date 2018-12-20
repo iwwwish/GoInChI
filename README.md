@@ -5,11 +5,12 @@ GoInChI is an ultra light-weight HTTP GET client that facilitates various format
 
 ###### How to use:
 
-    git clone https://github.com/vishalkpp/GoInChI.git
-    cd GoInChI/
-    ant
-  
-Execute the above commands to build the project locally and find the GoInChI.jar in the dist folder. Use the .jar file wherever required. It is also convenient to use the source files directly in your project.
+Execute the following commands to build the project locally. After building the project GoInChI.jar can be found in the dist folder. Use the .jar file wherever required. It is also convenient to use the source files directly in your project.
+
+1. `git clone https://github.com/vishalkpp/GoInChI.git`
+2. `cd GoInChI/`
+3. `ant`
+ 
 
 ###### Acknowledgment:
 
